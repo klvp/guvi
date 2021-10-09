@@ -1,0 +1,103 @@
+Iterate Over JSON
+============================================================
+
+
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 3 Task\iterate_over_JSON.js"
+For Loop
+name : lakshmi vara prasad
+role : Full Stack developer
+{ name: 'lakshmi vara prasad', role: 'Full Stack developer' }
+name : manohar
+role : working inspector
+{ name: 'manohar', role: 'working inspector' }
+name : usha
+role : SPM
+{ name: 'usha', role: 'SPM' }
+name : savithri
+role : Home Engineer
+{ name: 'savithri', role: 'Home Engineer' }
+For-in Loop
+name : lakshmi vara prasad
+role : Full Stack developer
+
+
+name : manohar
+role : working inspector
+
+
+name : usha
+role : SPM
+
+
+name : savithri
+role : Home Engineer
+
+
+ForEach Loop
+name : lakshmi vara prasad
+role : Full Stack developer
+
+
+name : manohar
+role : working inspector
+
+
+name : usha
+role : SPM
+
+
+name : savithri
+role : Home Engineer
+
+
+For-of Loop
+name : lakshmi vara prasad
+role : Full Stack developer
+
+
+name : manohar
+role : working inspector
+
+
+name : usha
+role : SPM
+
+
+name : savithri
+role : Home Engineer
+
+
+
+[Done] exited with code=0 in 0.149 seconds
+
+
+=============================================
+
+
+Create Resume in JSON
+
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 3 Task\Resume_JSON.js"
+{
+  name: 'klvp',
+  email: 'klvp@gmail.com',
+  contact: 8329073469,
+  technology: [
+    'JavaScript',
+    'Python',
+    'HTML5 & CSS3',
+    'Open CV',
+    'C Programming',
+    'Arduino',
+    'Raspberry Pi',
+    'Embedded Systems'
+  ],
+  experience: 2,
+  education: { ssc: '93%', inter: '96.6%', btech: '85%' },
+  projects: {
+    'Vinetra Avasya': 'Hat for blind people helps to recognize face, currency and obstacles',
+    'ETA estimation': 'A system used to find out the ETA of school bus based on Geo-Tagging concept',
+    'Removing Motion Blur': 'It uses Open CV package with pyhton for Image processing and removing motion blur in images'
+  }
+}
+
+[Done] exited with code=0 in 0.121 seconds
