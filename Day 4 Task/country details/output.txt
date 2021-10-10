@@ -1,0 +1,40 @@
+country 50 
+
+country_details.js:9 country :  New Zealand
+country_details.js:10 region :  Oceania
+country_details.js:11 Sub-region :  Australia and New Zealand
+country_details.js:12 Population :  5084300
+country_details.js:8 
+country 51 
+
+country_details.js:9 country :  Denmark
+country_details.js:10 region :  Europe
+country_details.js:11 Sub-region :  Northern Europe
+country_details.js:12 Population :  5831404
+country_details.js:8 
+country 52 
+
+country_details.js:9 country :  Aruba
+country_details.js:10 region :  Americas
+country_details.js:11 Sub-region :  Caribbean
+country_details.js:12 Population :  106766
+country_details.js:8 
+country 53 
+
+country_details.js:9 country :  Montserrat
+country_details.js:10 region :  Americas
+country_details.js:11 Sub-region :  Caribbean
+country_details.js:12 Population :  4922
+country_details.js:8 
+country 54 
+
+country_details.js:9 country :  Kenya
+country_details.js:10 region :  Africa
+country_details.js:11 Sub-region :  Eastern Africa
+country_details.js:12 Population :  53771300
+country_details.js:8 
+country 55 
+
+country_details.js:9 country :  Bulgaria
+country_details.js:10 region :  Europe
+country_details.js:11 Sub-region :  Southeast Europe
