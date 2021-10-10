@@ -1,0 +1,116 @@
+country 0 
+flags.js:10 Flag :  https://flagcdn.com/ao.svg
+flags.js:9 
+country 1 
+flags.js:10 Flag :  https://flagcdn.com/ml.svg
+flags.js:9 
+country 2 
+flags.js:10 Flag :  https://flagcdn.com/tm.svg
+flags.js:9 
+country 3 
+flags.js:10 Flag :  https://flagcdn.com/lk.svg
+flags.js:9 
+country 4 
+flags.js:10 Flag :  https://flagcdn.com/io.svg
+flags.js:9 
+country 5 
+flags.js:10 Flag :  https://flagcdn.com/cl.svg
+flags.js:9 
+country 6 
+flags.js:10 Flag :  https://flagcdn.com/dz.svg
+flags.js:9 
+country 7 
+flags.js:10 Flag :  https://flagcdn.com/ss.svg
+flags.js:9 
+country 8 
+flags.js:10 Flag :  https://flagcdn.com/pn.svg
+flags.js:9 
+country 9 
+flags.js:10 Flag :  https://flagcdn.com/aq.svg
+flags.js:9 
+country 10 
+flags.js:10 Flag :  https://flagcdn.com/et.svg
+flags.js:9 
+country 11 
+flags.js:10 Flag :  https://flagcdn.com/cy.svg
+flags.js:9 
+country 12 
+flags.js:10 Flag :  https://flagcdn.com/is.svg
+flags.js:9 
+country 13 
+flags.js:10 Flag :  https://flagcdn.com/zw.svg
+flags.js:9 
+country 14 
+flags.js:10 Flag :  https://flagcdn.com/it.svg
+flags.js:9 
+country 15 
+flags.js:10 Flag :  https://flagcdn.com/sx.svg
+flags.js:9 
+country 16 
+flags.js:10 Flag :  https://flagcdn.com/ps.svg
+flags.js:9 
+country 17 
+flags.js:10 Flag :  https://flagcdn.com/tn.svg
+flags.js:9 
+country 18 
+flags.js:10 Flag :  https://flagcdn.com/gq.svg
+flags.js:9 
+country 19 
+flags.js:10 Flag :  https://flagcdn.com/gg.svg
+flags.js:9 
+country 20 
+flags.js:10 Flag :  https://flagcdn.com/mm.svg
+flags.js:9 
+country 21 
+flags.js:10 Flag :  https://flagcdn.com/na.svg
+flags.js:9 
+country 22 
+flags.js:10 Flag :  https://flagcdn.com/st.svg
+flags.js:9 
+country 23 
+flags.js:10 Flag :  https://flagcdn.com/ge.svg
+flags.js:9 
+country 24 
+flags.js:10 Flag :  https://flagcdn.com/sc.svg
+flags.js:9 
+country 25 
+flags.js:10 Flag :  https://flagcdn.com/kg.svg
+flags.js:9 
+country 26 
+flags.js:10 Flag :  https://flagcdn.com/pa.svg
+flags.js:9 
+country 27 
+flags.js:10 Flag :  https://flagcdn.com/mn.svg
+flags.js:9 
+country 28 
+flags.js:10 Flag :  https://flagcdn.com/cd.svg
+flags.js:9 
+country 29 
+flags.js:10 Flag :  https://flagcdn.com/nu.svg
+flags.js:9 
+country 30 
+flags.js:10 Flag :  https://flagcdn.com/je.svg
+flags.js:9 
+country 31 
+flags.js:10 Flag :  https://flagcdn.com/xk.svg
+flags.js:9 
+country 32 
+flags.js:10 Flag :  https://flagcdn.com/ht.svg
+flags.js:9 
+country 33 
+flags.js:10 Flag :  https://flagcdn.com/jo.svg
+flags.js:9 
+country 34 
+flags.js:10 Flag :  https://flagcdn.com/bf.svg
+flags.js:9 
+country 35 
+flags.js:10 Flag :  https://flagcdn.com/nf.svg
+flags.js:9 
+country 36 
+flags.js:10 Flag :  https://flagcdn.com/sj.svg
+flags.js:9 
+country 37 
+flags.js:10 Flag :  https://flagcdn.com/ax.svg
+flags.js:9 
+country 38 
+flags.js:10 Flag :  https://flagcdn.com/sg.svg
