@@ -1,0 +1,265 @@
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\2_multiple_code_questions.js"
+
+ addFive
+
+10
+5
+0
+
+ getOpposite
+
+-5
+0
+5
+-1
+-1
+
+minutes to seconds
+
+300
+
+String to integer
+
+5 number
+
+Increment by 1
+
+1
+
+return first element of the array
+
+10
+
+hours to seconds
+
+3600
+7200
+10800
+
+Perimeter of a rectangle
+
+34
+
+Sum of 2 numbers should be less than 100
+
+true
+
+Remainder of a division
+
+1
+
+Old macdonald had a farm
+
+36
+
+Frames per second
+
+120
+
+Checking if num is divisible by 5
+
+true
+
+isEven
+
+true
+true
+false
+-1
+
+areBothOdd
+
+true
+false
+false
+false
+
+getFullName
+
+GUVI GEEK
+GUVI 
+GEEK 
+"" 
+
+getLengthOfWord
+
+4
+0
+-1
+-1
+
+isSameLength
+
+true
+
+distance between two points
+
+360.5551275463989
+
+getNthElement
+
+3
+
+getLastElement
+
+4
+
+getProperty
+
+value
+NA
+
+removeProperty
+
+undefined
+
+addProperty
+
+{ mykey: true }
+
+Count of positive numbers and sum of negative nummbers in array
+
+[ 6, -17 ]
+undefined
+
+positive numbrers from array
+
+[ 10, 12, 5, 90, 0, 1 ]
+
+power of 2
+
+[ 1 ]
+[ 1, 2 ]
+[ 1, 2, 4 ]
+
+Maximum number in an array
+
+90
+
+First 100 prime numbers
+
+0  -->  2
+1  -->  3
+2  -->  5
+3  -->  7
+4  -->  11
+5  -->  13
+6  -->  17
+7  -->  19
+8  -->  23
+9  -->  29
+10  -->  31
+11  -->  37
+12  -->  41
+13  -->  43
+14  -->  47
+15  -->  53
+16  -->  59
+17  -->  61
+18  -->  67
+19  -->  71
+20  -->  73
+21  -->  79
+22  -->  83
+23  -->  89
+24  -->  97
+25  -->  101
+26  -->  103
+27  -->  107
+28  -->  109
+29  -->  113
+30  -->  127
+31  -->  131
+32  -->  137
+33  -->  139
+34  -->  149
+35  -->  151
+36  -->  157
+37  -->  163
+38  -->  167
+39  -->  173
+40  -->  179
+41  -->  181
+42  -->  191
+43  -->  193
+44  -->  197
+45  -->  199
+46  -->  211
+47  -->  223
+48  -->  227
+49  -->  229
+50  -->  233
+51  -->  239
+52  -->  241
+53  -->  251
+54  -->  257
+55  -->  263
+56  -->  269
+57  -->  271
+58  -->  277
+59  -->  281
+60  -->  283
+61  -->  293
+62  -->  307
+63  -->  311
+64  -->  313
+65  -->  317
+66  -->  331
+67  -->  337
+68  -->  347
+69  -->  349
+70  -->  353
+71  -->  359
+72  -->  367
+73  -->  373
+74  -->  379
+75  -->  383
+76  -->  389
+77  -->  397
+78  -->  401
+79  -->  409
+80  -->  419
+81  -->  421
+82  -->  431
+83  -->  433
+84  -->  439
+85  -->  443
+86  -->  449
+87  -->  457
+88  -->  461
+89  -->  463
+90  -->  467
+91  -->  479
+92  -->  487
+93  -->  491
+94  -->  499
+95  -->  503
+96  -->  509
+97  -->  521
+98  -->  523
+99  -->  541
+
+ n prime numbers after given number
+
+[
+  101, 103, 107, 109,
+  113, 127, 131, 137,
+  139, 149
+]
+
+ reverse a string 
+
+IVUG
+
+ merge two strings 
+
+[
+   -5,   3,  6, 12, 15,
+  -12, -10, -6, -3,  4
+]
+
+ sum of Comma separated Values 
+
+57.3
+
+[Done] exited with code=0 in 0.121 seconds

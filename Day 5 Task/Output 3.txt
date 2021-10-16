@@ -1,0 +1,23 @@
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\3Using_arrow_functions.js"
+
+ odd numbers using arrow function 
+
+[ 1, 3, 5, 7, 9 ]
+
+ Title Case Text using arrow function 
+
+I Am Very Happy
+
+ Sum of array using arrow function 
+
+55
+
+ prime numbers in an array using arrow function 
+
+[ 3, 5, 7, 11, 13 ]
+
+ polindromes of array using arrow function 
+
+[ 'mam', 'appa', 'akka', 'amma' ]
+
+[Done] exited with code=0 in 0.138 seconds

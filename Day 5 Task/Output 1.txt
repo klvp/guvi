@@ -1,0 +1,90 @@
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\1(b)title.js"
+
+Title case of text using Ananymous function
+
+I Am Very Happy
+
+Title case of text using IIFE function
+
+I Am Very Happy
+
+[Done] exited with code=0 in 0.111 seconds
+
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\1(c)array_sum.js"
+
+Sum of array numbers using Ananymous function
+
+55
+
+Sum of array numbers using IIFE function
+
+55
+
+[Done] exited with code=0 in 0.113 seconds
+
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\1(d)prime_numbers.js"
+
+primes numbers from an array using ananymous function
+
+[ 3, 5, 7, 11, 13 ]
+
+primes numbers from an array using IIFE function
+
+[ 3, 5, 7, 11, 13 ]
+
+[Done] exited with code=0 in 0.113 seconds
+
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\1(e)polindrome_array.js"
+
+ polindromes from an array using Ananymous function
+
+[ 'mam', 'appa', 'akka', 'amma' ]
+
+ polindromes from an array using IIFE function
+
+[ 'mam', 'appa', 'akka', 'amma' ]
+
+[Done] exited with code=0 in 0.116 seconds
+
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\1(f)median_ot_two _equal_arrays.js"
+Sorted array after combining two arrays
+[
+  -12, -10, -6, -5, -3,
+    3,   4,  6, 12, 15
+]
+
+Using Ananymous Function
+ 0
+
+ Using IIFE function 
+ 0
+
+[Done] exited with code=0 in 0.116 seconds
+
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\1(g)remove_duplicates.js"
+
+ removing duplicates using ananymous function
+
+[ 1, 2, 3, 5, 8, 9 ]
+
+ removing duplicates using IIFE function
+
+[ 1, 2, 3, 5, 8, 9 ]
+
+[Done] exited with code=0 in 0.115 seconds
+
+[Running] node "c:\Users\klvpf\Desktop\Courses\Guvi\Task\Day 5 Task\1(h)Rotate_by _k_times.js"
+Array
+ [ 1, 3, 5, 7, 9 ]
+
+
+Using Ananymous Function
+[ 7, 9, 1, 3, 5 ]
+[ 5, 7, 9, 1, 3 ]
+
+
+ Using IIFE function
+[ 7, 9, 1, 3, 5 ]
+[ 5, 7, 9, 1, 3 ]
+
+[Done] exited with code=0 in 0.113 seconds
